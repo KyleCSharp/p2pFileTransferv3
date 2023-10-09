@@ -1,0 +1,5 @@
+D:\Repos\Finished\p2pfiletransfer.exe
+D:\Repos\Finished\p2pfiletransfer.dll
+D:\Repos\Finished\p2pfiletransfer.deps.json
+D:\Repos\Finished\p2pfiletransfer.runtimeconfig.json
+D:\Repos\Finished\p2pfiletransfer.pdb

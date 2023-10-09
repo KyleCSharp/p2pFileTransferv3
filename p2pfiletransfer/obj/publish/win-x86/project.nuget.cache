@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/rCxfe6zStq05VOI1Jh6EyG0a0Ty9YtVr3arrMIPBf9aOQDcTi7Sc+Z49YFPhdQ34g2O4n7BcXTwC56wSVci3w==",
+  "success": true,
+  "projectFilePath": "D:\\Repos\\p2pfiletransfer\\p2pfiletransfer\\p2pfiletransfer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kylel\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.22\\microsoft.netcore.app.runtime.win-x86.6.0.22.nupkg.sha512",
+    "C:\\Users\\kylel\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.22\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.22.nupkg.sha512",
+    "C:\\Users\\kylel\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.22\\microsoft.aspnetcore.app.runtime.win-x86.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}

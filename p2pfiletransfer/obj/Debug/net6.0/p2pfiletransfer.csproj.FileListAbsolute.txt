@@ -1,0 +1,14 @@
+D:\Repos\p2pfiletransfer\p2pfiletransfer\bin\Debug\net6.0\p2pfiletransfer.exe
+D:\Repos\p2pfiletransfer\p2pfiletransfer\bin\Debug\net6.0\p2pfiletransfer.deps.json
+D:\Repos\p2pfiletransfer\p2pfiletransfer\bin\Debug\net6.0\p2pfiletransfer.runtimeconfig.json
+D:\Repos\p2pfiletransfer\p2pfiletransfer\bin\Debug\net6.0\p2pfiletransfer.dll
+D:\Repos\p2pfiletransfer\p2pfiletransfer\bin\Debug\net6.0\p2pfiletransfer.pdb
+D:\Repos\p2pfiletransfer\p2pfiletransfer\obj\Debug\net6.0\p2pfiletransfer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\p2pfiletransfer\p2pfiletransfer\obj\Debug\net6.0\p2pfiletransfer.AssemblyInfoInputs.cache
+D:\Repos\p2pfiletransfer\p2pfiletransfer\obj\Debug\net6.0\p2pfiletransfer.AssemblyInfo.cs
+D:\Repos\p2pfiletransfer\p2pfiletransfer\obj\Debug\net6.0\p2pfiletransfer.csproj.CoreCompileInputs.cache
+D:\Repos\p2pfiletransfer\p2pfiletransfer\obj\Debug\net6.0\p2pfiletransfer.dll
+D:\Repos\p2pfiletransfer\p2pfiletransfer\obj\Debug\net6.0\refint\p2pfiletransfer.dll
+D:\Repos\p2pfiletransfer\p2pfiletransfer\obj\Debug\net6.0\p2pfiletransfer.pdb
+D:\Repos\p2pfiletransfer\p2pfiletransfer\obj\Debug\net6.0\p2pfiletransfer.genruntimeconfig.cache
+D:\Repos\p2pfiletransfer\p2pfiletransfer\obj\Debug\net6.0\ref\p2pfiletransfer.dll
